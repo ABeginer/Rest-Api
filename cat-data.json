@@ -1,1 +1,30 @@
-[{"name":"Alan","species":"british's shorthair","id":1},{"name":"Bob","species":"egyp's hairless","id":2},{"name":"Alan","species":"bicolor","id":3},{"id":4,"name":"Alex","species":"bicolor"}]
+[
+    {
+        "name": "Alan",
+        "species": "british's shorthair",
+        "price": 200,
+        "gender": "male",
+        "id": 1
+    },
+    {
+        "name": "Bob",
+        "species": "egyp's hairless",
+        "price": 1000,
+        "gender": "female",
+        "id": 2
+    },
+    {
+        "name": "Megan",
+        "species": "bicolor",
+        "price": 20,
+        "gender": "female",
+        "id": 3
+    },
+    {
+        "name": "Alex",
+        "species": "bicolor",
+        "price": 30,
+        "gender": "male",
+        "id": 4
+    }
+]
